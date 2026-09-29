@@ -1,0 +1,3 @@
+requests>=2.31
+ipwhois>=1.2
+folium>=0.15
